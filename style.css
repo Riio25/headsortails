@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+button {
+    margin-top: 3em;
+}
+
+img {
+    margin: 60px auto;
+    max-width: 400px;
+    height: 400px;
+}
+
+#side1 {
+    display: none;
+}
+#side2 {
+    display: none;
+}
+#tails{
+    display: none;
+}
+
+#answer {
+    padding: 20px;
+    height: 25px;
+}
+
+#winner {
+    margin-top: 30px;
+    height: 25px;
+}
